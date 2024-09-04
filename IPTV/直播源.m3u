@@ -307,10 +307,10 @@ https://livednow.com/migu/617290047?sign=gAAAAABmsk8xphkqMmpH5OQtx6blzB2BLP1wQDG
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://assets.livednow.com/logo/上海纪实人文.png" group-title="地方",上海纪实人文
 https://livednow.com/migu/617289997?sign=gAAAAABmsk8x954-tyoCmrDWX8pO28LT3_F3dW4FUMeQPt0QrZ9xclzTx0au65WYgJJ9EZhNV8wuwb2uAEL4ne9-EWMG1qDFfnX4GaTMx22SQ21wn2R7qBLGOVB8k7Fk1LVA0WNt5c-llWTIk3qBc71yBHv84FDym4d_R12gkCZdsm6qiC7wBRid1sToChxW0l_MZSzN3iOUUncXwYKCnqQn8nkr09THxw%3D%3D
 
-#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.v1.mk/logo/纪实人文.png" group-title="其他",纪实人文
+#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.v1.mk/logo/纪实人文.png" group-title="地方",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 
-#EXTINF:-1,tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://epg.v1.mk/logo/纪实科教.png" group-title="其他",纪实科教
+#EXTINF:-1,tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://epg.v1.mk/logo/纪实科教.png" group-title="地方",纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://assets.livednow.com/logo/七彩戏剧.png" group-title="地方",七彩戏剧
